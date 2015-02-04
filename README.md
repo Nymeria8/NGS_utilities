@@ -23,6 +23,11 @@ In the command line:
 <pre><code>python fastalist.py setOfFasta.fasta headersList output.fasta
 </code></pre>
 
+5. **stats.py**: make basic stats for a group of fasta files
+<pre><code>python stats.py fastafile
+</code></pre>
+
+
 ##License:
 
 GPLv2
