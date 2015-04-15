@@ -27,6 +27,9 @@ In the command line:
 <pre><code>python stats.py fastafile
 </code></pre>
 
+5. **polimorph_gtf.py**: cross a gtf and a vcf file and gives a series of statistics.
+<pre><code>python polimorph_gtf.py infile.gtf infile.vcf
+</code></pre>
 
 ##License:
 
